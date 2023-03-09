@@ -1,0 +1,10 @@
+.idea
+data
+
+src/.ipynb_checkpoints
+src/models
+
+src/t10k-images-idx3-ubyte.gz
+src/t10k-labels-idx1-ubyte.gz
+src/train-images-idx3-ubyte.gz
+src/train-labels-idx1-ubyte.gz
